@@ -22,7 +22,7 @@ public class Program
         AskName();
         AskAge();
         CalculateAgeIn5Years();
-        AskOtherDetails();
+    
     }
 
     // Ask for Name
